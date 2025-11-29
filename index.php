@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!DOCTYPE php>
+<php lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -216,14 +216,14 @@
         <p class="description">Made by <a href="https://t.me/alvspy">Lion</a>, <a href="https://t.me/fuckingshitagain">Kebab</a>, <a href="https://t.me/MiniBesss">Imp</a> and <a href="https://t.me/t0hrepus">Field</a></p>
         
         <!-- Основная кнопка -->
-        <button class="button main-button" onclick="window.location.href='schedule.html'">Расписание</button>
+        <button class="button main-button" onclick="window.location.href='schedule.php'">Расписание</button>
         
         <!-- Контейнер для нижних кнопок -->
         <div class="buttons-container">
-            <button class="button button1" onclick="window.location.href='find-student.html'">Найти ученика</button>
-            <button class="button button2" onclick="window.location.href='find-teacher.html'">Найти учителя</button>
+            <button class="button button1" onclick="window.location.href='find-student.php'">Найти ученика</button>
+            <button class="button button2" onclick="window.location.href='find-teacher.php'">Найти учителя</button>
             <div class="suggestion-container">
-                <button class="button button3" onclick="window.location.href='suggestions.html'">Предложения</button>
+                <button class="button button3" onclick="window.location.href='suggestions.php'">Предложения</button>
                 <div class="suggestion-comment">предложения, жалобы, угрозы, что угодно <3</div>
             </div>
         </div>
@@ -241,6 +241,7 @@
         </ul>
     </div>
 </body>
-</html>
+</php>
+
 
 
