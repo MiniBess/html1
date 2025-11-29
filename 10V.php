@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!DOCTYPE php>
+<php lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -149,11 +149,12 @@
 </head>
 <body>
     <div class="container">
-        <button class="top-back-button" onclick="window.location.href='index.html'">← Назад</button>
+        <button class="top-back-button" onclick="window.location.href='index.php'">← Назад</button>
         <h1 class="title">10В класс</h1>
         <p class="description">Made by <a href="https://t.me/alvspy">Lion</a>, <a href="https://t.me/fuckingshitagain">Kebab</a>, <a href="https://t.me/MiniBesss">Imp</a> and <a href="https://t.me/t0hrepus">Field</a></p>
         <p class="description">Информация об учениках и учителях класса</p>
         
     </div>
 </body>
-</html>
+
+</php>
