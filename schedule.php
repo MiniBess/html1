@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!DOCTYPE php>
+<php lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -138,15 +138,16 @@
         
         <!-- Контейнер для кнопок -->
         <div class="buttons-container">
-            <button class="button" onclick="window.location.href='find-student.html'">Классы</button>
-            <button class="button" onclick="window.location.href='teachers.html'">Учителя</button>
+            <button class="button" onclick="window.location.href='find-student.php'">Классы</button>
+            <button class="button" onclick="window.location.href='teachers.php'">Учителя</button>
         </div>
 
         <!-- Кнопка назад -->
-        <button class="button back-button" onclick="window.location.href='index.html'">← Назад</button>
+        <button class="button back-button" onclick="window.location.href='index.php'">← Назад</button>
     </div>
 </body>
 
-</html>
+</php>
+
 
 
