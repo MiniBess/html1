@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!DOCTYPE php>
+<php lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -133,8 +133,8 @@
         <p class="description">Made by <a href="https://t.me/alvspy">Lion</a>, <a href="https://t.me/fuckingshitagain">Kebab</a>, <a href="https://t.me/MiniBesss">Imp</a> and <a href="https://t.me/t0hrepus">Field</a></p>
         
         <!-- Основная кнопка -->
-        <button class="button main-button" onclick="window.location.href='enter1.html'">Войти</button>
-        <button class="button main-button" onclick="window.location.href='reg1.html'">Регистрация</button>
+        <button class="button main-button" onclick="window.location.href='enter1.php'">Войти</button>
+        <button class="button main-button" onclick="window.location.href='reg1.php'">Регистрация</button>
         
     </div>
 
@@ -150,4 +150,5 @@
         </ul>
     </div>
 </body>
-</html>
+</php>
+
