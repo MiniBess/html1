@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!DOCTYPE php>
+<php lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -197,8 +197,8 @@
         </div>
         
         <div class="links">
-            <button class="button link-button" onclick="window.location.href='reg1.html'">Регистрация</button>
-            <button class="button back-button" onclick="window.location.href='first_page.html'">Назад</button>
+            <button class="button link-button" onclick="window.location.href='reg1.php'">Регистрация</button>
+            <button class="button back-button" onclick="window.location.href='first_page.php'">Назад</button>
         </div>
     </div>
 
@@ -223,4 +223,5 @@
         }
     </script>
 </body>
-</html>
+
+</php>
